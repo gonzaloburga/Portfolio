@@ -8,5 +8,6 @@ de oportunidad. Este informe no solo resume los hallazgos clave del análisis
 realizado, sino que también explica la lógica detrás de las visualizaciones y los
 ﬁltros implementados en el dashboard. Además, se detallan las fuentes de datos
 utilizadas, los indicadores de rendimiento clave (KPI) seleccionados, y se ofrecen
-recomendaciones basadas en los insights obtenidos. 
+recomendaciones basadas en los insights obtenidos.
+
 ![alt text](image.png)
