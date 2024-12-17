@@ -11,3 +11,7 @@ utilizadas, los indicadores de rendimiento clave (KPI) seleccionados, y se ofrec
 recomendaciones basadas en los insights obtenidos.
 
 ![alt text](image.png)
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
