@@ -6,3 +6,5 @@ Exploración de un amplio conjunto de datos sobre homicidios en Estados Unidos e
 ![alt text](image-1.png)
 
 ![alt text](image-2.png)
+
+![alt text](image-3.png)
