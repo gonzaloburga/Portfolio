@@ -1,10 +1,3 @@
--- Proyecto de Limpieza de Datos de Laptops
--- Autor: Gonzalo Burga
--- Descripción: Este proyecto tiene como objetivo limpiar y preparar los datos de laptops
--- para su posterior análisis. Los datos originales contienen varias inconsistencias y
--- valores faltantes que deben ser tratados. 
--- Fuente: https://www.kaggle.com/datasets/jenilhareshbhaighori/real-world-laptop-data-analysis?select=laptop_uncleaned.csv
-
 -- Vista del Dataset
 SELECT *
 FROM amazon_laptops
