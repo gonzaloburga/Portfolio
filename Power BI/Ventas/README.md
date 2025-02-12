@@ -10,12 +10,14 @@ realizado, sino que también explica la lógica detrás de las visualizaciones y
 utilizadas, los indicadores de rendimiento clave (KPI) seleccionados, y se ofrecen
 recomendaciones basadas en los insights obtenidos.
 
-![alt text](image.png)
+![alt text](<image1.png>)
 
-![alt text](image-1.png)
+![alt text](<image2.png>)
 
-![alt text](image-2.png)
+![alt text](<image3.png>)
 
-![alt text](image-3.png)
+![alt text](image4.png)
 
-![alt text](image-4.png)
+![alt text](image5.png)
+
+![alt text](image6.png)
