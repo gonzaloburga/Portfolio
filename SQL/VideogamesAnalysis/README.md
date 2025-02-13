@@ -16,8 +16,8 @@ El año 2008 registró las mayores ventas, alcanzando 734 millones de unidades, 
 - Plataformas:
 Sony destacó durante este periodo, con consolas como PlayStation y PlayStation 2. En concreto, PlayStation 2 fue la plataforma con mayor cantidad de videojuegos vendidos, seguida por la PC y Xbox 360.
 
-[Ver PPT.](Portfolio/SQL/VideogameAnalysis/AnalisisdeVideojuegos.pptx)
+[Ver PPT.](AnalisisdeVideojuegos.pptx)
 
-[Ver Código SQL.](Portfolio/SQL/VideogameAnalysis/video_games_analysis.sql)
+[Ver Código SQL.](video_games_analysis.sql)
 
 Fuente: https://www.kaggle.com/datasets/holmjason2/videogamedata
