@@ -20,4 +20,4 @@ Sony destacó durante este periodo, con consolas como PlayStation y PlayStation 
 
 [Ver Código SQL.](video_games_analysis.sql)
 
-Fuente: https://www.kaggle.com/datasets/holmjason2/videogamedata
+Fuente de datos: https://www.kaggle.com/datasets/holmjason2/videogamedata
