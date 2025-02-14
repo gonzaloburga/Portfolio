@@ -21,3 +21,7 @@ recomendaciones basadas en los insights obtenidos.
 ![alt text](image5.png)
 
 ![alt text](image6.png)
+
+[Informe en PDF](ReporteVentas.pdf)
+
+[Archivo Power BI](ProyectoVentas.pbix)

@@ -8,3 +8,9 @@ Exploración de un amplio conjunto de datos sobre homicidios en Estados Unidos e
 ![alt text](image-2.png)
 
 ![alt text](image-3.png)
+
+![alt text](image-4.png)
+
+[Informe en PDF](ProyectoFinal.pdf)
+
+[Archivo Power BI](ProyectoFinal.pbix)
